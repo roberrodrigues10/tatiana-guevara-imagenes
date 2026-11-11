@@ -142,3 +142,5 @@ module.exports = async function handler(req, res) {
     return json(res, error.status || 500, { error: error.message || "Upload failed" });
   }
 };
+
+module.exports.config = { api: { bodyParser: { sizeLimit: '4mb' } } };
