@@ -1,0 +1,5 @@
+{
+  "version": 1,
+  "instrucciones": "Cada producto debe tener su imagen subida al mismo repositorio. El campo imagen debe coincidir exactamente con la ruta del archivo. precio_venta se calcula usando el precio tachado/lista de SHEIN menos 10%, nunca el precio promocional actual.",
+  "productos": []
+}
