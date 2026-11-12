@@ -1,0 +1,4 @@
+Prueba de conexión GitHub
+
+La conexión puede crear archivos de texto en este repositorio.
+Esta prueba no modifica productos.json ni publica productos.
