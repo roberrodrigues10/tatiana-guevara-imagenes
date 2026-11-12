@@ -1,5 +1,17 @@
 {
   "version": 1,
   "instrucciones": "Cada producto debe tener su imagen subida al mismo repositorio. El campo imagen debe coincidir exactamente con la ruta del archivo. precio_venta se calcula usando el precio tachado/lista de SHEIN menos 10%, nunca el precio promocional actual.",
-  "productos": []
+  "productos": [
+    {
+      "identificador": "TG-0001",
+      "imagen": "TG-0001.webp",
+      "nombre": "Blusa halter café con broche de mariposa y caída asimétrica",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 42390,
+      "precio_venta": 37990,
+      "tallas": [
+        "S"
+      ]
+    }
+  ]
 }
