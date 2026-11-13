@@ -90,6 +90,17 @@
       "tallas": [
         "S"
       ]
+    },
+    {
+      "identificador": "TG-0009",
+      "imagen": "TG-0009.png",
+      "nombre": "Short de mezclilla azul claro con rotos y bajo deshilachado",
+      "categoria": "Pantalones y Shorts",
+      "precio_lista_shein": 52790,
+      "precio_venta": 47990,
+      "tallas": [
+        "M"
+      ]
     }
   ]
 }
