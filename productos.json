@@ -101,6 +101,17 @@
       "tallas": [
         "M"
       ]
+    },
+    {
+      "identificador": "TG-0010",
+      "imagen": "TG-0010.png",
+      "nombre": "Blusa negra de malla transparente con copas y mangas cortas",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 19190,
+      "precio_venta": 16990,
+      "tallas": [
+        "S"
+      ]
     }
   ]
 }
