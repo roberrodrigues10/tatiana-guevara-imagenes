@@ -12,6 +12,62 @@
       "tallas": [
         "S"
       ]
+    },
+    {
+      "identificador": "TG-0002",
+      "imagen": "TG-0002.png",
+      "nombre": "Blusa vino tinto de escote drapeado y manga corta",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 25890,
+      "precio_venta": 22990,
+      "tallas": [
+        "S"
+      ]
+    },
+    {
+      "identificador": "TG-0003",
+      "imagen": "TG-0003.png",
+      "nombre": "Pijama de dos piezas rosada con rayas y estampado floral",
+      "categoria": "Pijamas",
+      "precio_lista_shein": 29590,
+      "precio_venta": 26990,
+      "tallas": [
+        "M"
+      ]
+    },
+    {
+      "identificador": "TG-0004",
+      "imagen": "TG-0004.png",
+      "nombre": "Pijama amarilla de dos piezas con estampado de cerezas y volantes",
+      "categoria": "Pijamas",
+      "precio_lista_shein": 32990,
+      "precio_venta": 29990,
+      "tallas": [
+        "S"
+      ]
+    },
+    {
+      "identificador": "TG-0005",
+      "imagen": "TG-0005.png",
+      "nombre": "Blusa negra ajustada de hombros descubiertos y manga larga",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 24890,
+      "precio_venta": 22990,
+      "tallas": [
+        "S",
+        "M"
+      ]
+    },
+    {
+      "identificador": "TG-0006",
+      "imagen": "TG-0006.png",
+      "nombre": "Short negro de tiro alto con botón y dobladillo recto",
+      "categoria": "Pantalones y Shorts",
+      "precio_lista_shein": 36690,
+      "precio_venta": 32990,
+      "tallas": [
+        "S"
+      ]
     }
   ]
 }
