@@ -134,6 +134,17 @@
       "tallas": [
         "M"
       ]
+    },
+    {
+      "identificador": "TG-0013",
+      "imagen": "TG-0013.png",
+      "nombre": "Conjunto rojo de dos piezas con top bandeau y short con estampado de hibisco",
+      "categoria": "Conjuntos",
+      "precio_lista_shein": 44990,
+      "precio_venta": 40990,
+      "tallas": [
+        "S"
+      ]
     }
   ]
 }
