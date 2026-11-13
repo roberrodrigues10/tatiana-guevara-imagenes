@@ -156,6 +156,17 @@
       "tallas": [
         "S"
       ]
+    },
+    {
+      "identificador": "TG-0015",
+      "imagen": "TG-0015.png",
+      "nombre": "Short de mezclilla azul claro con abertura lateral",
+      "categoria": "Pantalones y Shorts",
+      "precio_lista_shein": 64490,
+      "precio_venta": 57990,
+      "tallas": [
+        "M"
+      ]
     }
   ]
 }
