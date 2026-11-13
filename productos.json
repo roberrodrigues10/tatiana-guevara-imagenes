@@ -123,6 +123,17 @@
       "tallas": [
         "S"
       ]
+    },
+    {
+      "identificador": "TG-0012",
+      "imagen": "TG-0012.png",
+      "nombre": "Blusa rosada de un hombro con frunces y detalle de aro",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 29290,
+      "precio_venta": 25990,
+      "tallas": [
+        "M"
+      ]
     }
   ]
 }
