@@ -79,6 +79,17 @@
       "tallas": [
         "S"
       ]
+    },
+    {
+      "identificador": "TG-0008",
+      "imagen": "TG-0008.png",
+      "nombre": "Vestido largo café strapless con paneles de transparencia",
+      "categoria": "Vestidos",
+      "precio_lista_shein": 45090,
+      "precio_venta": 40990,
+      "tallas": [
+        "S"
+      ]
     }
   ]
 }
