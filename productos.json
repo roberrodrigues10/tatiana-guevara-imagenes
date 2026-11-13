@@ -68,6 +68,17 @@
       "tallas": [
         "S"
       ]
+    },
+    {
+      "identificador": "TG-0007",
+      "imagen": "TG-0007.png",
+      "nombre": "Blusa negra halter con escote profundo drapeado y pedrería brillante",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 39990,
+      "precio_venta": 35990,
+      "tallas": [
+        "S"
+      ]
     }
   ]
 }
