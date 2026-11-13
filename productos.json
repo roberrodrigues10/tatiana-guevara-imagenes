@@ -112,6 +112,17 @@
       "tallas": [
         "S"
       ]
+    },
+    {
+      "identificador": "TG-0011",
+      "imagen": "TG-0011.png",
+      "nombre": "Body rosado halter con escote profundo y amarre de lazo en la espalda",
+      "categoria": "Bodies",
+      "precio_lista_shein": 42990,
+      "precio_venta": 38990,
+      "tallas": [
+        "S"
+      ]
     }
   ]
 }
