@@ -145,6 +145,17 @@
       "tallas": [
         "S"
       ]
+    },
+    {
+      "identificador": "TG-0014",
+      "imagen": "TG-0014.png",
+      "nombre": "Enterizo deportivo negro acanalado con escote en V y frunce delantero",
+      "categoria": "Ropa deportiva",
+      "precio_lista_shein": 57990,
+      "precio_venta": 51990,
+      "tallas": [
+        "S"
+      ]
     }
   ]
 }
