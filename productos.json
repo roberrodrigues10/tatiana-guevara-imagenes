@@ -178,6 +178,17 @@
       "tallas": [
         "S"
       ]
+    },
+    {
+      "identificador": "TG-0017",
+      "imagen": "TG-0017.png",
+      "nombre": "Chaqueta corta deportiva racing negra, roja y blanca con cierre frontal",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 49990,
+      "precio_venta": 44990,
+      "tallas": [
+        "M"
+      ]
     }
   ]
 }
