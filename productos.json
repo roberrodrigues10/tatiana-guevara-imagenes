@@ -167,6 +167,17 @@
       "tallas": [
         "M"
       ]
+    },
+    {
+      "identificador": "TG-0016",
+      "imagen": "TG-0016.png",
+      "nombre": "Chaqueta corta negra efecto cuero con cuello alto y cierre frontal",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 49990,
+      "precio_venta": 44990,
+      "tallas": [
+        "S"
+      ]
     }
   ]
 }
