@@ -280,6 +280,17 @@
       "tallas": [
         "S"
       ]
+    },
+    {
+      "identificador": "TG-0027",
+      "imagen": "TG-0027.png",
+      "nombre": "Top negro de tirantes con fruncido central y bajo ondulado",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 23190,
+      "precio_venta": 20990,
+      "tallas": [
+        "M"
+      ]
     }
   ]
 }
