@@ -322,6 +322,19 @@
       "tallas": [
         "M"
       ]
+    },
+    {
+      "identificador": "TG-0031",
+      "imagen": "TG-0031.png",
+      "nombre": "Pijama satinada de dos piezas",
+      "categoria": "Pijamas",
+      "precio_lista_shein": 25030,
+      "precio_venta": 22990,
+      "colores": [
+        "Negro",
+        "Marfil",
+        "Rosado"
+      ]
     }
   ]
 }
