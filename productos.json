@@ -291,6 +291,14 @@
       "tallas": [
         "M"
       ]
+    },
+    {
+      "identificador": "TG-0028",
+      "imagen": "TG-0028.png",
+      "nombre": "Tobillera plateada con dijes de corazones",
+      "categoria": "Accesorios",
+      "precio_lista_shein": 15190,
+      "precio_venta": 13990
     }
   ]
 }
