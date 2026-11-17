@@ -299,6 +299,18 @@
       "categoria": "Accesorios",
       "precio_lista_shein": 15190,
       "precio_venta": 13990
+    },
+    {
+      "identificador": "TG-0029",
+      "imagen": "TG-0029.png",
+      "nombre": "Conjunto de pijama negro con tirantes rojos de encaje y estampado de cerezas",
+      "categoria": "Pijamas",
+      "precio_lista_shein": 23690,
+      "precio_venta": 20990,
+      "tallas": [
+        "S",
+        "M"
+      ]
     }
   ]
 }
