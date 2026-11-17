@@ -200,6 +200,17 @@
       "tallas": [
         "M"
       ]
+    },
+    {
+      "identificador": "TG-0019",
+      "imagen": "TG-0019.png",
+      "nombre": "Conjunto negro de short y top halter con escote profundo y detalle metálico",
+      "categoria": "Conjuntos",
+      "precio_lista_shein": 70000,
+      "precio_venta": 62990,
+      "tallas": [
+        "M"
+      ]
     }
   ]
 }
