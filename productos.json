@@ -211,6 +211,64 @@
       "tallas": [
         "M"
       ]
+    },
+    {
+      "identificador": "TG-0020",
+      "imagen": "TG-0020.png",
+      "nombre": "Bikini azul rey de dos piezas con corazones dorados",
+      "categoria": "Vestidos de baño",
+      "precio_lista_shein": 38690,
+      "precio_venta": 34990,
+      "tallas": [
+        "M"
+      ]
+    },
+    {
+      "identificador": "TG-0021",
+      "imagen": "TG-0021.png",
+      "nombre": "Top corto deportivo acanalado asimétrico en varios colores",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 57850,
+      "precio_venta": 51990,
+      "tallas": [
+        "S"
+      ]
+    },
+    {
+      "identificador": "TG-0022",
+      "imagen": "TG-0022.png",
+      "nombre": "Top corto acanalado de un hombro con tiras laterales, multicolor",
+      "categoria": "Blusas y Tops"
+    },
+    {
+      "identificador": "TG-0023",
+      "imagen": "TG-0023.png",
+      "nombre": "Tobillera plateada con dije de corazón brillante",
+      "categoria": "Accesorios",
+      "precio_lista_shein": 8890,
+      "precio_venta": 7990
+    },
+    {
+      "identificador": "TG-0024",
+      "imagen": "TG-0024.png",
+      "nombre": "Top corto negro acanalado de tirantes con espalda de tiras cruzadas",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 24590,
+      "precio_venta": 21990,
+      "tallas": [
+        "M"
+      ]
+    },
+    {
+      "identificador": "TG-0025",
+      "imagen": "TG-0025.png",
+      "nombre": "Crop top gris oscuro lavado con cuello redondo y manga corta",
+      "categoria": "Blusas y Tops",
+      "precio_lista_shein": 31690,
+      "precio_venta": 28990,
+      "tallas": [
+        "S"
+      ]
     }
   ]
 }
