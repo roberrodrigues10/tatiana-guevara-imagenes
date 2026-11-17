@@ -311,6 +311,17 @@
         "S",
         "M"
       ]
+    },
+    {
+      "identificador": "TG-0030",
+      "imagen": "TG-0030.png",
+      "nombre": "Conjunto burdeos de escote halter drapeado y short con volantes",
+      "categoria": "Conjuntos",
+      "precio_lista_shein": 69990,
+      "precio_venta": 62990,
+      "tallas": [
+        "M"
+      ]
     }
   ]
 }
